@@ -1,0 +1,17 @@
+h1{
+	font-family: Arial;
+}
+h4 {
+	font-family: Times;
+	font-style: oblique;
+}
+p{
+	text-align: middle;
+}
+
+footer { 
+    display: block;
+}
+nav {
+    display: block;
+}
