@@ -23,7 +23,4 @@ I. Site Map
 II. Functional Requirements
 The site has a contact me and links to my social media accounts.
 
-III. Sources
-Me
-
 
