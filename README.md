@@ -23,6 +23,10 @@ I. Site Map
 II. Functional Requirements
 The site has a contact me and links to my social media accounts.
 
+III. References
+www.w3schools.com
+www.getbootstrap.com
+
 TIMELINE
 SEPT 16: > PLANNIING
 SEPT 18: > CHOOSING PICTURES
