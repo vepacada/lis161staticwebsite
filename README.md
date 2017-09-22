@@ -23,4 +23,7 @@ I. Site Map
 II. Functional Requirements
 The site has a contact me and links to my social media accounts.
 
-
+TIMELINE
+SEPT 16: > PLANNIING
+SEPT 18: > CHOOSING PICTURES
+SEPT 18-21: > DEVELOPMENT
